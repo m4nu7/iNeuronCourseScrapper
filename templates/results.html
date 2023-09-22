@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Scrapped Page</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+</head>
+
+<body>
+
+  <div class="table-users">
+   <div class="header">Scrapped Data</div>
+
+   <table cellspacing="0">
+      <tr>
+         <th>Course</th>
+         <th>Description</th>
+         <th>Duration</th>
+      </tr>
+         {% for course in courses %}
+      <tr>
+          <td>{{course['course_title']}}</td>
+         <td>{{course['course_description']}}</td>
+         <td>{{course['duration']}}</td>
+       {% endfor %}
+   </table>
+</div>
+
+
+
+</body>
+
+</html>

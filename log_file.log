@@ -1,0 +1,74 @@
+SCRAP - 2023-09-21 17:22:43,324 - INFO - URL entered for ineuron course scrapping : https://ineuron.ai/courses?source=navbar
+SCRAP - 2023-09-21 17:22:43,324 - INFO - URL entered for ineuron course scrapping : https://ineuron.ai/courses?source=navbar
+SCRAP - 2023-09-21 17:22:44,432 - INFO - Page Read
+SCRAP - 2023-09-21 17:22:44,432 - INFO - Page Read
+SCRAP - 2023-09-21 17:22:44,433 - INFO - constructor created successfully
+SCRAP - 2023-09-21 17:22:44,433 - INFO - constructor created successfully
+SCRAP - 2023-09-21 17:22:44,476 - INFO - Page parsed, html parser tree created
+SCRAP - 2023-09-21 17:22:44,476 - INFO - Page parsed, html parser tree created
+SCRAP - 2023-09-21 17:22:44,577 - INFO - Obtained all course names
+SCRAP - 2023-09-21 17:22:44,577 - INFO - Obtained all course names
+SCRAP - 2023-09-21 17:22:44,583 - INFO - Getting all the course details
+SCRAP - 2023-09-21 17:22:44,583 - INFO - Getting all the course details
+SCRAP - 2023-09-21 17:29:22,424 - ERROR - ERROR!! while gathering course detailslist index out of range
+SCRAP - 2023-09-21 17:29:22,424 - ERROR - ERROR!! while gathering course detailslist index out of range
+SCRAP - 2023-09-21 17:33:28,457 - INFO - URL entered for ineuron course scrapping : https://ineuron.ai/courses?source=navbar
+SCRAP - 2023-09-21 17:33:28,457 - INFO - URL entered for ineuron course scrapping : https://ineuron.ai/courses?source=navbar
+SCRAP - 2023-09-21 17:33:29,566 - INFO - Page Read
+SCRAP - 2023-09-21 17:33:29,566 - INFO - Page Read
+SCRAP - 2023-09-21 17:33:29,567 - INFO - constructor created successfully
+SCRAP - 2023-09-21 17:33:29,567 - INFO - constructor created successfully
+SCRAP - 2023-09-21 17:33:29,606 - INFO - Page parsed, html parser tree created
+SCRAP - 2023-09-21 17:33:29,606 - INFO - Page parsed, html parser tree created
+SCRAP - 2023-09-21 17:33:29,685 - INFO - Obtained all course names
+SCRAP - 2023-09-21 17:33:29,685 - INFO - Obtained all course names
+SCRAP - 2023-09-21 17:33:29,685 - INFO - Getting all the course details
+SCRAP - 2023-09-21 17:33:29,685 - INFO - Getting all the course details
+SCRAP - 2023-09-21 17:42:34,116 - ERROR - ERROR!! while gathering course details list index out of range
+SCRAP - 2023-09-21 17:42:34,116 - ERROR - ERROR!! while gathering course details list index out of range
+SCRAP - 2023-09-22 16:00:25,944 - INFO - URL entered for ineuron course scrapping : https://ineuron.ai/courses?source=navbar
+SCRAP - 2023-09-22 16:00:25,944 - INFO - URL entered for ineuron course scrapping : https://ineuron.ai/courses?source=navbar
+SCRAP - 2023-09-22 16:00:27,056 - INFO - Page Read
+SCRAP - 2023-09-22 16:00:27,056 - INFO - Page Read
+SCRAP - 2023-09-22 16:00:27,056 - INFO - constructor created successfully
+SCRAP - 2023-09-22 16:00:27,056 - INFO - constructor created successfully
+SCRAP - 2023-09-22 16:00:27,080 - INFO - Page parsed, html parser tree created
+SCRAP - 2023-09-22 16:00:27,080 - INFO - Page parsed, html parser tree created
+SCRAP - 2023-09-22 16:00:27,103 - INFO - Obtained all course names
+SCRAP - 2023-09-22 16:00:27,103 - INFO - Obtained all course names
+SCRAP - 2023-09-22 16:00:27,104 - INFO - Getting all the course details
+SCRAP - 2023-09-22 16:00:27,104 - INFO - Getting all the course details
+SCRAP - 2023-09-22 16:10:06,434 - INFO - Parsed through all the courses, returning all course data for DB insertion
+SCRAP - 2023-09-22 16:10:06,434 - INFO - Parsed through all the courses, returning all course data for DB insertion
+SCRAP - 2023-09-22 16:17:40,594 - INFO - URL entered for ineuron course scrapping : https://ineuron.ai/courses?source=navbar
+SCRAP - 2023-09-22 16:17:40,594 - INFO - URL entered for ineuron course scrapping : https://ineuron.ai/courses?source=navbar
+SCRAP - 2023-09-22 16:17:41,696 - INFO - Page Read
+SCRAP - 2023-09-22 16:17:41,696 - INFO - Page Read
+SCRAP - 2023-09-22 16:17:41,696 - INFO - constructor created successfully
+SCRAP - 2023-09-22 16:17:41,696 - INFO - constructor created successfully
+SCRAP - 2023-09-22 16:17:41,706 - INFO - Page parsed, html parser tree created
+SCRAP - 2023-09-22 16:17:41,706 - INFO - Page parsed, html parser tree created
+SCRAP - 2023-09-22 16:17:41,728 - INFO - Obtained all course names
+SCRAP - 2023-09-22 16:17:41,728 - INFO - Obtained all course names
+SCRAP - 2023-09-22 16:17:41,728 - INFO - Getting all the course details
+SCRAP - 2023-09-22 16:17:41,728 - INFO - Getting all the course details
+SCRAP - 2023-09-22 16:27:21,395 - INFO - Parsed through all the courses, returning all course data for DB insertion
+SCRAP - 2023-09-22 16:27:21,395 - INFO - Parsed through all the courses, returning all course data for DB insertion
+SCRAP - 2023-09-22 16:27:21,399 - INFO - Enter Username and password to Connect to MongoDB
+SCRAP - 2023-09-22 16:27:21,399 - INFO - Enter Username and password to Connect to MongoDB
+SCRAP - 2023-09-22 16:27:21,399 - INFO - Enter Username and password to Connect to MongoDB
+SCRAP - 2023-09-22 16:29:17,038 - INFO - User establishing a MongoDB connectio is manoharkot93
+SCRAP - 2023-09-22 16:29:17,038 - INFO - User establishing a MongoDB connectio is manoharkot93
+SCRAP - 2023-09-22 16:29:17,038 - INFO - User establishing a MongoDB connectio is manoharkot93
+SCRAP - 2023-09-22 16:29:19,771 - INFO - Connection Established!!
+SCRAP - 2023-09-22 16:29:19,771 - INFO - Connection Established!!
+SCRAP - 2023-09-22 16:29:19,771 - INFO - Connection Established!!
+SCRAP - 2023-09-22 16:29:19,807 - INFO - Database Database(MongoClient(host=['ac-yuamjsa-shard-00-00.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-02.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-01.2pnukrk.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-hn71uu-shard-0', tls=True), 'IneuronCoursesData')already Exists, you can proceed
+SCRAP - 2023-09-22 16:29:19,807 - INFO - Database Database(MongoClient(host=['ac-yuamjsa-shard-00-00.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-02.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-01.2pnukrk.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-hn71uu-shard-0', tls=True), 'IneuronCoursesData')already Exists, you can proceed
+SCRAP - 2023-09-22 16:29:19,807 - INFO - Database Database(MongoClient(host=['ac-yuamjsa-shard-00-00.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-02.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-01.2pnukrk.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-hn71uu-shard-0', tls=True), 'IneuronCoursesData')already Exists, you can proceed
+SCRAP - 2023-09-22 16:29:19,842 - INFO - Collection Collection(Database(MongoClient(host=['ac-yuamjsa-shard-00-00.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-02.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-01.2pnukrk.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-hn71uu-shard-0', tls=True), 'IneuronCoursesData'), 'IneuronCourse_collection') Exists, please continue 
+SCRAP - 2023-09-22 16:29:19,842 - INFO - Collection Collection(Database(MongoClient(host=['ac-yuamjsa-shard-00-00.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-02.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-01.2pnukrk.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-hn71uu-shard-0', tls=True), 'IneuronCoursesData'), 'IneuronCourse_collection') Exists, please continue 
+SCRAP - 2023-09-22 16:29:19,842 - INFO - Collection Collection(Database(MongoClient(host=['ac-yuamjsa-shard-00-00.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-02.2pnukrk.mongodb.net:27017', 'ac-yuamjsa-shard-00-01.2pnukrk.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-hn71uu-shard-0', tls=True), 'IneuronCoursesData'), 'IneuronCourse_collection') Exists, please continue 
+SCRAP - 2023-09-22 16:29:19,843 - INFO - Inserting all the documents into MongoDB
+SCRAP - 2023-09-22 16:29:19,843 - INFO - Inserting all the documents into MongoDB
+SCRAP - 2023-09-22 16:29:19,843 - INFO - Inserting all the documents into MongoDB
