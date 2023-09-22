@@ -5,8 +5,9 @@ from MongoDBOp import DBop
 from loggerMainClass import scrapLogger
 
 
-app = Flask(__name__)
-logger = scrapLogger.ineuron_scrap_logger()
+application = Flask(__name__)                              # initialising a flask app
+app = application
+logger = scrapLogger.ineuron_scrap_logger()        # crating logger instance
 
 """c = ineuronScrapper()
 c.getCourses()
@@ -23,12 +24,12 @@ for record in dbObj.getRecords("IneuronCourse_collection"):
     if counter == 5:
         break"""
 
-@app.route("/", methods = ["GET"])
+@app.route("/", methods = ["GET"])                  # route to display homepage
 @cross_origin()
 def homePage():
     return render_template("index.html")
 
-@app.route("/scrap", methods = ["GET", "POST"])
+@app.route("/scrap", methods = ["GET", "POST"])    # route to show srapped date in a web UI and to handle DB insertion OP
 @cross_origin()
 def scrap():
     if request.method == "POST":
